@@ -3,7 +3,7 @@
 SQL analysis exploring the golden age of video games using sales data and critic/user ratings.
 
 ## Dataset
-Source: DataCamp
+Source: [DataCamp - When Was the Golden Age of Video Games?](https://projects.datacamp.com/projects/2013)
 
 **Tables:**
 - `game_sales` - Video game sales data
